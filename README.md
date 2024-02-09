@@ -1,5 +1,5 @@
 # MiCM_IntroToGitHub
-Series: Fall 2022
+Series: Winter 2024
 ## Overview
 
 This repository contains all of the materials for the MiCM Intro to GitHub workshop on September 1st 2022. 
