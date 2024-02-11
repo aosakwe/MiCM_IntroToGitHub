@@ -2,8 +2,8 @@
 Series: Winter 2024
 ## Overview
 
-This repository contains all of the materials for the MiCM Intro to GitHub workshop on September 1st 2022. 
-The workshop taught attendees the basic theory behind Git and GitHub and provided hands-on activities to gain experience.
+This repository contains all of the materials for the MiCM Intro to GitHub workshop on February 9th 2024. 
+The workshop taught attendees the basic theory behind Git and GitHub and provided hands-on activities to gain experience. This is my third iteration of this workshop.
 
 ## Requirements
 
