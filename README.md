@@ -1,5 +1,5 @@
 # MiCM_IntroToGitHub
-Series: Fall 2022
+Series: Winter 2024
 ## Overview
 
 This repository contains all of the materials for the MiCM Intro to GitHub workshop on September 1st 2022. 
@@ -10,7 +10,7 @@ The workshop taught attendees the basic theory behind Git and GitHub and provide
 * A Text Editor (NotePad, TextEdit, VScode etc.)
 * GitHub Account
 * GitHub Desktop App 
-* Unix-based Terminal
+* Unix-based Terminal (optional)
   * Windows users are recommended to install a unix subsystem (WSL) or MobaXterm
 
 
@@ -20,5 +20,6 @@ The workshop taught attendees the basic theory behind Git and GitHub and provide
 2) Basic Features of Git
 3) Advanced Features of Git
 4) Working with Remote Repositories with GitHub
-5) Using Git on the Command Line
-6) Conclusion
+5) Group Activity
+6) Miscellaneous Features
+7) Conclusion
