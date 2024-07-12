@@ -2,7 +2,10 @@
 
 Undertake this project if you do not want to do the data analysis project. Instead, you will look at building a database for bioinformatics tools. Essentially, you will compile links to different tools/articles/resources that are useful for bioinformatics.
 ## Fungi related databases
-
+- FungiDB (fungidb.org) https://fungidb.org
+  - is a free online resource for data mining and functional genomics analysis for fungal and oomycete species.
+ 
+- -
 The goal of this exercise is to practice developing a working database
 as a team.You should select a team member who will host the main fork of
 this repository from which the rest of the team can make changes.
