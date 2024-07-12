@@ -18,3 +18,8 @@ Consider the following tasks:
 ## Appendix:
 
 GitHub isn't just useful for storing code. You will often find repositories that are solely designed to store and document large ammounts of links and resources for a given topic. Here is an example for single cell foundation models: https://github.com/KatarinaYuan/awesome-single-cell-foundation. A database can be single file or a very complex system. Up to you to decide how to build it! 
+
+
+## Genomics tools
+
+Phylogenomic data profiling: https://github.com/stajichlab/PHYling
