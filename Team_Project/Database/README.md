@@ -25,4 +25,4 @@ GitHub isn't just useful for storing code. You will often find repositories that
 
 ## Genomics tools
 
-Phylogenomic data profiling: https://github.com/stajichlab/PHYling
+Phylogenomic data profiling [GitHub](https://github.com/stajichlab/PHYling)
