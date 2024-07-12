@@ -1,7 +1,7 @@
 # FUNGI
 
 Undertake this project if you do not want to do the data analysis project. Instead, you will look at building a database for bioinformatics tools. Essentially, you will compile links to different tools/articles/resources that are useful for bioinformatics.
-## Objective
+## Fungi related databases
 
 The goal of this exercise is to practice developing a working database
 as a team.You should select a team member who will host the main fork of
