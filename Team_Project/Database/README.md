@@ -9,7 +9,7 @@ A humble group of silly fungi people putting together a resource list of differe
 - **The Y1000+ project** https://y1000plus.wei.wisc.edu/index.html
   - Free online collection of all yeast genomes
  
-- **EnsemblFungi**
+- **EnsemblFungi** https://fungi.ensembl.org
  
 ## Genomics tools
 
