@@ -8,4 +8,4 @@ A humble group of silly fungi people putting together a resource list of differe
  
 ## Genomics tools
 
-Phylogenomic data profiling [GitHub](https://github.com/stajichlab/PHYling)
+Phylogenomic data profiling by the Satjich lab on [GitHub](https://github.com/stajichlab/PHYling)
