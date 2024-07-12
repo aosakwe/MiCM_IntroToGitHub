@@ -2,3 +2,6 @@
 if (!require("tidyverse")){
   install.packages("tidyverse")
 }
+
+
+Gap<-readRDS('./data/gapminder_unfiltered.rds')
