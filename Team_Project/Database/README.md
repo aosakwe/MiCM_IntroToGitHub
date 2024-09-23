@@ -18,3 +18,22 @@ Consider the following tasks:
 ## Appendix:
 
 GitHub isn't just useful for storing code. You will often find repositories that are solely designed to store and document large ammounts of links and resources for a given topic. Here is an example for single cell foundation models: https://github.com/KatarinaYuan/awesome-single-cell-foundation. A database can be single file or a very complex system. Up to you to decide how to build it! 
+
+# Example Results from Workshop Attendees
+
+## FUNGI
+
+A humble group of silly fungi people putting together a resource list of different databases and tools for fungal bioinformatics research
+
+### Fungi related databases
+- **FungiDB** https://fungidb.org
+  - is a free online resource for data mining and functional genomics analysis for fungal and oomycete species.
+ 
+- **The Y1000+ project** https://y1000plus.wei.wisc.edu/index.html
+  - Free online collection of all yeast genomes
+ 
+- **EnsemblFungi** https://fungi.ensembl.org
+ 
+### Genomics tools
+
+Phylogenomic data profiling by the Satjich lab on [GitHub](https://github.com/stajichlab/PHYling)
