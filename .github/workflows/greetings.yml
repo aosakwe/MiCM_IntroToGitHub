@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "Thanks for raising an issue! The maintainer will make sure to get back to you as soon as possible! Make sure that your issue and or suggestions are emphasized in your issue title."
+        pr-message: "Thank you for making a pull request! If your PR is part of the workshop assignment, please make sure you indicate it in the PR description. If it is part of suggested improvements for the workshop, please indicate the change and its purpose in your description."
