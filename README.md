@@ -1,4 +1,4 @@
-# MiCM_IntroToGitHub -  Winter 2025
+#  QLS-MiCM Intro To Git & GitHub -  Winter 2025
 
 ## Overview
 
