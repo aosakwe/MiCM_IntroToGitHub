@@ -1,4 +1,4 @@
-# MiCM_IntroToGitHub -  Fall  2024
+# MiCM_IntroToGitHub -  Winter 2025
 
 ## Overview
 
