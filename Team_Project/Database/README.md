@@ -37,3 +37,7 @@ A humble group of silly fungi people putting together a resource list of differe
 ### Genomics tools
 
 Phylogenomic data profiling by the Satjich lab on [GitHub](https://github.com/stajichlab/PHYling)
+
+### Aptamers
+I found a nice paper on aptamers that maybe we can check and read:
+https://github.com/nedaemami/AptaNet
