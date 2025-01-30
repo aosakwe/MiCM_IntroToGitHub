@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains all of the materials for the MiCM Intro to GitHub workshop on September 25th 2024. 
+This repository contains all of the materials for the MiCM Intro to GitHub workshop on January 30th 2024. 
 The workshop taught attendees the basic theory behind Git and GitHub and provided hands-on activities to gain experience. This is my third iteration of this workshop.
 
 ## Requirements
