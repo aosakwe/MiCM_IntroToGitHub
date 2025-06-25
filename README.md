@@ -11,6 +11,7 @@ The workshop taught attendees the basic theory behind Git and GitHub and provide
 * GitHub Account
 * GitHub Desktop App 
 
+Installation instructions can be found in the pdf viewer below or by reading the [IntroToGitHub_Setup.pdf ](https://github.com/aosakwe/MiCM_IntroToGitHub/blob/main/IntroToGitHub_Setup.pdf) file.
 
 ## Outline
 
@@ -20,3 +21,11 @@ The workshop taught attendees the basic theory behind Git and GitHub and provide
 4) Working with Remote Repositories with GitHub
 5) Miscellaneous Features
 6) Conclusion
+
+## Installation Instructions
+
+<object data="https://github.com/aosakwe/MiCM_IntroToGitHub/blob/main/IntroToGitHub_Setup.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/aosakwe/MiCM_IntroToGitHub/blob/main/IntroToGitHub_Setup.pdf">
+        <p>This browser does not support PDFs. Please view it here: <a href="https://github.com/aosakwe/MiCM_IntroToGitHub/blob/main/IntroToGitHub_Setup.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
